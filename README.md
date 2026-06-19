@@ -1,16 +1,25 @@
-## Hi there 👋
+# Rafael Theodoro
 
-<!--
-**rafatheodoro/rafatheodoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Assessor de TI | Dados & Analytics
 
-Here are some ideas to get you started:
+Bem-vindo ao meu GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este espaço reúne projetos e estudos aplicados desenvolvidos durante a especialização em Data Science & Analytics pela PUC-Rio.
+
+Os projetos têm como objetivo conectar dados, negócio e tecnologia, transformando informações em indicadores, análises e insights que apoiam a tomada de decisão.
+
+## Áreas de estudo
+
+- Análise Exploratória de Dados (EDA)
+- Visualização de Dados
+- Estatística Aplicada
+- Machine Learning
+- Engenharia e Tratamento de Dados
+
+## Tecnologias
+
+Python • Pandas • NumPy • Scikit-learn • SQL • Power BI • Jupyter Notebook
+
+---
+
+Graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Data Science & Analytics pela PUC-Rio.
