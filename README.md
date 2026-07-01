@@ -4,7 +4,7 @@ Assessor de TI | Dados & Analytics
 
 Bem-vindo ao meu GitHub.
 
-Este espaço reúne projetos e estudos aplicados desenvolvidos durante a especialização em Data Science & Analytics pela PUC-Rio.
+Este espaço reúne projetos e estudos aplicados desenvolvidos durante a especialização em Data Science & Analytics pela PUC-RIO.
 
 Os projetos têm como objetivo conectar dados, negócio e tecnologia, transformando informações em indicadores, análises e insights que apoiam a tomada de decisão.
 
